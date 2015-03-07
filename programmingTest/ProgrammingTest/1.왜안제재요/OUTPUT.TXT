@@ -1,0 +1,6 @@
+maha:morian(3),noah(3),nevan(2),pan(2)
+morian:maha(3),noah(3),nevan(2)
+nevan:maha(2),morian(2),noah(1)
+noah:maha(3),morian(3),nevan(1),pan(1)
+pan:maha(2),noah(1)
+rona:
